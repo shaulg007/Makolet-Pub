@@ -2,8 +2,9 @@
 
 Welcome !
 
-[See the post](./_post/2024
+[See the post](posts/2024-06-27.md)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Mjk1Nzk1Ml19
+eyJoaXN0b3J5IjpbNDU2MDk1ODQwXX0=
 -->
